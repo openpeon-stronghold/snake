@@ -9,34 +9,45 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/start_1.mp3", "label": "Greeting 1" },
-        { "file": "sounds/start_2.mp3", "label": "Greeting 2" }
+        { "file": "sounds/sn_add_player.wav", "label": "Laughing" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/sn_taunt_02.wav", "label": "Presently upon you" },
+        { "file": "sounds/sn_taunt_05.wav", "label": "Your death drawing near" }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/complete_1.mp3", "label": "Done 1" },
-        { "file": "sounds/complete_2.mp3", "label": "Done 2" }
-      ]
-    },
-    "input.required": {
-      "sounds": [
-        { "file": "sounds/permission_1.mp3", "label": "Needs attention" }
+        { "file": "sounds/sn_vict_01.wav", "label": "You seem to have lost" },
+        { "file": "sounds/sn_vict_02.wav", "label": "Am I victorious? Oh yes" },
+        { "file": "sounds/sn_vict_04.wav", "label": "Getting rather tiresome" }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/error_1.mp3", "label": "Error" }
+        { "file": "sounds/sn_anger_01.wav", "label": "Ruining my plans" },
+        { "file": "sounds/sn_anger_02.wav", "label": "Not again, sick of your persistence" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/sn_plead_01.wav", "label": "Wanted only to be your ally" },
+        { "file": "sounds/sn_plead_02.wav", "label": "Spare my life" }
       ]
     },
     "resource.limit": {
       "sounds": [
-        { "file": "sounds/limit_1.mp3", "label": "Limit hit" }
+        { "file": "sounds/sn_plead_03.wav", "label": "I think I might just..." },
+        { "file": "sounds/sn_anger_03.wav", "label": "You severely try my patience" }
       ]
     },
     "user.spam": {
       "sounds": [
-        { "file": "sounds/spam_1.mp3", "label": "Too many prompts" }
+        { "file": "sounds/sn_taunt_08.wav", "label": "You're kind of persistent" },
+        { "file": "sounds/sn_anger_04.wav", "label": "Who are you to challenge me" },
+        { "file": "sounds/sn_kick_player.wav", "label": "Ha!" }
       ]
     }
   }
