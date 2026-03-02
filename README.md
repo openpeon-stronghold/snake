@@ -6,6 +6,8 @@
 
 The Snake sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Snake in Stronghold Crusader.
 
+The Snake is a cold, treacherous villain who operates through deception and betrayal. He speaks in silky threats and false reassurances, always circling toward the most advantageous position — and vanishing without remorse the moment the alliance stops serving him.
+
 ## Install
 
 ```bash
